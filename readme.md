@@ -11,3 +11,6 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 25/11 - CSS Variable - JS03 Complete<br>
 25/11 - Array Cardio Day1 - JS04 Complete<br>
 
+26/11 - Flex Panel Gallery - JS05 Complete<br>
+
+
