@@ -17,6 +17,7 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 27/11 - Array Cardio Day2 - JS07 Complete<br>
 27/11 - Fun with HTML5 Canvas - JS08 Complete<br>
 27/11 - Dev Tools Domination - JS09 Complete<br>
+27/11 - Hold Shift and Check Checkboxes - JS10 Complete<br>
 
 
 
