@@ -15,6 +15,8 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 26/11 - Type Ahead - JS06 Complete<br>
 
 27/11 - Array Cardio Day2 - JS07 Complete<br>
+27/11 - Fun with HTML5 Canvas - JS08 Complete<br>
+
 
 
 
