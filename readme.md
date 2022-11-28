@@ -20,6 +20,8 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 27/11 - Hold Shift and Check Checkboxes - JS10 Complete<br>
 
 28/11 - Custom Video Player - JS11 Complete<br>
+28/11 - Key Sequence Detection - JS12 Complete<br>
+
 
 
 
