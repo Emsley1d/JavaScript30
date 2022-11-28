@@ -22,6 +22,10 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 28/11 - Custom Video Player - JS11 Complete<br>
 28/11 - Key Sequence Detection - JS12 Complete<br>
 28/11 - Slide in on Scroll - JS13 Complete<br>
+28/11 - JavaScript References VS Copying - JS14 Complete<br>
+
+
+
 
 
 
