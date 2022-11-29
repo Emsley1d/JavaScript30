@@ -24,6 +24,9 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 28/11 - Slide in on Scroll - JS13 Complete<br>
 28/11 - JavaScript References VS Copying - JS14 Complete<br>
 
+29/11 - Local Storage - JS15 Complete<br>
+
+
 
 
 
