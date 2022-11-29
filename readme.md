@@ -25,6 +25,8 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 28/11 - JavaScript References VS Copying - JS14 Complete<br>
 
 29/11 - Local Storage - JS15 Complete<br>
+29/11 - Mouse Move Shadow - JS16 Complete<br>
+
 
 
 
