@@ -26,6 +26,8 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 
 29/11 - Local Storage - JS15 Complete<br>
 29/11 - Mouse Move Shadow - JS16 Complete<br>
+29/11 - Sort Without Articles - JS17 Complete<br>
+
 
 
 
