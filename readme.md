@@ -29,6 +29,8 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 29/11 - Sort Without Articles - JS17 Complete<br>
 
 30/11 - Adding Up Times With Reduce - JS18 Complete<br>
+30/11 - Webcam Fun - JS19 Complete<br>
+
 
 
 
