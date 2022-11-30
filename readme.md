@@ -32,6 +32,8 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 30/11 - Webcam Fun - JS19 Complete<br>
 30/11 - Speech Detection - JS20 Complete<br>
 30/11 - Geolocation - JS21 Complete<br>
+30/11 - Follow Along Link Highlighter - JS22 Complete<br>
+
 
 
 
