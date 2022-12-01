@@ -36,6 +36,8 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 30/11 - Speech Synthesis - JS23 Complete<br>
 
 01/12 - Sticky Nav - JS24 Complete<br>
+01/12 - Event Capture, Propagation, Bubbling and Once - JS25 Complete<br>
+
 
 
 

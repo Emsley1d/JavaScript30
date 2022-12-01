@@ -41,8 +41,32 @@
 </style>
 
 <button></button>
+
 <script>
 
+const divs = document.querySelectorAll('div');
+  const button = document.querySelector('button');
+
+  function logText(e) {
+    console.log(this.classList.value);
+    // e.stopPropagation(); // stops events bubbling up
+    // console.log(this);
+  }
+
+  divs.forEach(div => div.addEventListener('click', logText, {
+    capture: false,
+    // once unbinds - same as removing event listener (useful for store checkouts)
+    once: true
+  }));
+
+  button.addEventListener('click', () => {
+    console.log('click');
+  }, {
+    once: true
+  });
+
+
 </script>
+
 </body>
 </html>
