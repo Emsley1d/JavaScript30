@@ -33,6 +33,7 @@
   </div>
 
 <script>
+  
   const holes = document.querySelectorAll('.hole');
   const scoreBoard = document.querySelector('.score');
   const moles = document.querySelectorAll('.mole');
@@ -74,7 +75,7 @@
   }
 
   function bonk(e) {
-    if(!e.isTrusted) return; // cheater!
+    if(!e.isTrusted) return;
     score++;
     this.parentNode.classList.remove('up');
     scoreBoard.textContent = score;
@@ -83,5 +84,6 @@
   moles.forEach(mole => mole.addEventListener('click', bonk));
 
 </script>
+
 </body>
 </html>

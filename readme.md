@@ -42,6 +42,8 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 01/12 - Video Speed Controller - JS28 Complete<br>
 
 02/12 - Coutdown Timer - JS29 Complete<br>
+02/12 - Whack A Mole Game - JS30 Complete<br>
+
 
 
 
