@@ -41,6 +41,7 @@ I had already completed the "Learn JavaScript" course on Codecademy (prior to GA
 01/12 - Click and Drag (to scroll) - JS27 Complete<br>
 01/12 - Video Speed Controller - JS28 Complete<br>
 
+02/12 - Coutdown Timer - JS29 Complete<br>
 
 
 
